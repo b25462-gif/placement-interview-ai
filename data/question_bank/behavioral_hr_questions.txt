@@ -1,0 +1,83 @@
+BEHAVIORAL & HR INTERVIEW QUESTIONS — PLACEMENT PREPARATION
+============================================================
+
+## BEHAVIORAL QUESTIONS (Use STAR Method: Situation, Task, Action, Result)
+
+ABOUT YOURSELF:
+1. Tell me about yourself. (Keep it 2 minutes, professional)
+2. What are your biggest strengths? Give examples.
+3. What is your biggest weakness? How are you working on it?
+4. Where do you see yourself in 5 years?
+5. Why did you choose Computer Science?
+
+TEAMWORK & LEADERSHIP:
+1. Tell me about a time you worked in a difficult team.
+2. Describe a situation where you led a team to success.
+3. Have you ever had a conflict with a teammate? How did you resolve it?
+4. Tell me about a time you mentored someone junior to you.
+5. Describe a time when you had to collaborate across departments.
+
+PROBLEM SOLVING:
+1. Tell me about the most challenging technical problem you solved.
+2. Describe a project that failed. What did you learn?
+3. Give an example of a time you had to think outside the box.
+4. Tell me about a time you had to learn something very quickly.
+5. Describe a situation where you had to make a decision with limited information.
+
+WORK ETHIC & PRESSURE:
+1. How do you handle multiple deadlines at the same time?
+2. Tell me about a time you worked under extreme pressure.
+3. Describe a time when you went above and beyond for a project.
+4. How do you prioritize tasks when everything seems urgent?
+5. Tell me about a time you disagreed with your manager/professor.
+
+## HR QUESTIONS
+
+MOTIVATION:
+1. Why do you want to work at our company?
+2. Why should we hire you over other candidates?
+3. What motivates you to come to work every day?
+4. What kind of work environment do you thrive in?
+5. What are you passionate about outside of work?
+
+SALARY & GROWTH:
+1. What are your salary expectations?
+2. Are you willing to relocate for this job?
+3. How soon can you join if selected?
+4. Do you have any competing offers?
+5. What does success look like to you in this role?
+
+COMPANY-SPECIFIC:
+1. What do you know about our company?
+2. Which of our products/services interests you the most and why?
+3. How do you stay updated with the latest technology trends?
+4. What unique value would you bring to our team?
+
+SITUATIONAL QUESTIONS:
+1. If you were given a project with unclear requirements, what would you do?
+2. How would you handle a situation where you made a mistake in production?
+3. If a teammate is not contributing to the project, how would you handle it?
+4. What would you do if you strongly disagreed with your team's technical approach?
+5. How would you explain a complex technical concept to a non-technical stakeholder?
+
+## TIPS FOR BEHAVIORAL INTERVIEWS
+
+STAR Method:
+- Situation: Set the context briefly
+- Task: What was your responsibility?
+- Action: What specific steps did YOU take?
+- Result: What was the measurable outcome?
+
+Common Mistakes to Avoid:
+- Giving vague or generic answers
+- Not quantifying results (use numbers, %)
+- Speaking negatively about past employers
+- Not preparing questions to ask the interviewer
+- Rambling without a clear structure
+
+Power Phrases:
+- "I took ownership of..."
+- "The impact was..."
+- "I collaborated with..."
+- "I improved X by Y%..."
+- "I learned that..."

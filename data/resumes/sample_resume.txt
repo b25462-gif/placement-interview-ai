@@ -1,0 +1,65 @@
+RAHUL SHARMA
+Computer Science Engineering | Final Year
+Email: rahul.sharma@email.com | Phone: +91-9876543210
+GitHub: github.com/rahulsharma | LinkedIn: linkedin.com/in/rahulsharma
+
+EDUCATION
+-----------
+B.Tech Computer Science Engineering
+Delhi Technological University | 2021–2025
+CGPA: 8.4/10
+
+12th Grade: DAV Public School, Delhi — 94.2% (2021)
+10th Grade: DAV Public School, Delhi — 96.0% (2019)
+
+TECHNICAL SKILLS
+-----------------
+Programming: Python, Java, C++, JavaScript
+Web: React.js, Node.js, FastAPI, HTML/CSS
+Databases: MySQL, MongoDB, PostgreSQL, Redis
+AI/ML: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
+Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+Tools: Git, GitHub, Linux, Postman, VS Code
+
+PROJECTS
+---------
+1. AI-Powered Resume Screener (Python, LangChain, ChromaDB)
+   - Built RAG pipeline to match resumes with job descriptions
+   - Achieved 87% accuracy in candidate ranking
+   - Deployed on AWS EC2 with FastAPI backend
+
+2. E-Commerce Platform (React.js, Node.js, MongoDB)
+   - Full-stack application with 10k+ product catalog
+   - Integrated Razorpay payment gateway
+   - Implemented JWT authentication and role-based access
+
+3. Real-Time Chat Application (Socket.io, Redis, PostgreSQL)
+   - Supports 500+ concurrent users
+   - Message encryption using AES-256
+   - Mobile-responsive UI using React Native
+
+INTERNSHIPS
+------------
+Software Development Intern | TechCorp India | June–August 2024
+- Worked on microservices architecture using Spring Boot
+- Reduced API response time by 40% through Redis caching
+- Wrote unit tests with JUnit achieving 85% code coverage
+
+ACHIEVEMENTS
+-------------
+- LeetCode: 400+ problems solved (Knight Badge)
+- Finalist — Smart India Hackathon 2024
+- Google Kickstart Round D — Rank 1,240 globally
+- Published paper: "Optimizing RAG Pipelines" — ICML Workshop 2024
+
+CERTIFICATIONS
+---------------
+- AWS Certified Solutions Architect – Associate
+- Google Professional Data Engineer
+- Meta Front-End Developer Certificate (Coursera)
+
+EXTRA-CURRICULAR
+-----------------
+- Technical Head, ACM Student Chapter, DTU
+- Core Team Member, Developer Students Club
+- Competitive Programming Club Lead

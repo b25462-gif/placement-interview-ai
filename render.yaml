@@ -1,0 +1,50 @@
+services:
+  # FastAPI Backend
+  - type: web
+    name: placement-interview-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-20b
+      - key: GROQ_TEMPERATURE
+        value: "0.7"
+      - key: GROQ_MAX_TOKENS
+        value: "2048"
+      - key: EMBEDDING_MODEL
+        value: all-MiniLM-L6-v2
+      - key: VECTOR_STORE_TYPE
+        value: chroma
+      - key: CHROMA_PERSIST_DIR
+        value: ./vector_store/chroma_db
+      - key: RAG_CHUNK_SIZE
+        value: "500"
+      - key: RAG_CHUNK_OVERLAP
+        value: "50"
+      - key: RAG_TOP_K
+        value: "5"
+      - key: API_DEBUG
+        value: "false"
+      - key: API_SECRET_KEY
+        sync: false
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: MAX_INTERVIEW_QUESTIONS
+        value: "10"
+      - key: INTERVIEW_DIFFICULTY
+        value: medium
+      - key: FEEDBACK_DETAIL_LEVEL
+        value: detailed
+
+  # Streamlit Frontend
+  - type: web
+    name: placement-interview-ui
+    env: python
+    buildCommand: pip install streamlit requests
+    startCommand: streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: API_BASE_URL
+        sync: false

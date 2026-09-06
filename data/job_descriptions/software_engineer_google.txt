@@ -1,0 +1,63 @@
+JOB TITLE: Software Engineer — New Grad (L3)
+COMPANY: Google India
+LOCATION: Bangalore / Hyderabad
+TYPE: Full-Time | Campus Placement
+
+ABOUT THE ROLE
+---------------
+We're looking for passionate software engineers who love building scalable, efficient systems.
+As an L3 engineer at Google, you will design, develop, and maintain Google's products and infrastructure.
+
+RESPONSIBILITIES
+-----------------
+- Design and implement large-scale distributed systems
+- Write clean, well-tested, and efficient code in Python, Java, C++ or Go
+- Collaborate with cross-functional teams on product features
+- Participate in code reviews and technical design discussions
+- Debug production issues and improve system reliability
+- Contribute to Google's open-source projects
+
+MINIMUM QUALIFICATIONS
+-----------------------
+- Bachelor's/Master's in Computer Science or related field
+- Strong foundation in Data Structures and Algorithms
+- Proficiency in at least one of: Python, Java, C++, Go
+- Understanding of object-oriented design and software engineering principles
+- Experience with databases (SQL/NoSQL)
+
+PREFERRED QUALIFICATIONS
+-------------------------
+- Experience with distributed systems, cloud platforms (GCP, AWS)
+- Knowledge of machine learning and AI/ML frameworks
+- Open-source contributions
+- Competitive programming achievements (ICPC, CodeForces, LeetCode)
+- Prior internship experience at a tech company
+- Knowledge of system design principles
+
+TECHNICAL SKILLS EXPECTED
+--------------------------
+Core CS: Data Structures, Algorithms, Operating Systems, Computer Networks, DBMS
+Programming: Python, Java, C++, Go, JavaScript
+Systems: Distributed Systems, Microservices, REST APIs
+Cloud: GCP, AWS, Docker, Kubernetes
+Databases: BigQuery, Spanner, MySQL, MongoDB
+
+INTERVIEW PROCESS
+------------------
+Round 1: Online Assessment (DSA + Aptitude) — 90 minutes
+Round 2: Technical Interview 1 (Data Structures & Algorithms)
+Round 3: Technical Interview 2 (System Design)
+Round 4: Behavioral / Googleyness Interview
+Round 5: HR & Offer Discussion
+
+PACKAGE
+--------
+CTC: ₹25-45 LPA
+Base: ₹20-35 LPA
+Stock (RSU): ₹8-15 LPA (4-year vest)
+Bonus: 15-20% of base
+
+CULTURE
+--------
+Google values: Googleyness, innovation, collaboration, and passion for technology.
+We believe in psychological safety, diversity, and continuous learning.

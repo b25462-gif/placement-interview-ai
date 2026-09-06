@@ -1,0 +1,82 @@
+TECHNICAL INTERVIEW QUESTIONS — PLACEMENT PREPARATION
+=====================================================
+
+## DATA STRUCTURES & ALGORITHMS
+
+EASY:
+1. What is the difference between Array and LinkedList?
+2. Explain stack and queue with real-world examples.
+3. What is recursion? Give an example.
+4. What is Big-O notation? Explain O(n), O(log n), O(n²).
+5. How does Binary Search work? What is its time complexity?
+6. What is a Hash Table? How does collision handling work?
+
+MEDIUM:
+1. Explain how to detect a cycle in a linked list (Floyd's algorithm).
+2. What is Dynamic Programming? Explain with Fibonacci example.
+3. Explain BFS and DFS. When would you use each?
+4. How does a HashMap internally work in Java?
+5. What is a balanced BST? Explain AVL trees vs Red-Black trees.
+6. Solve: Find the longest common subsequence of two strings.
+7. What is the sliding window technique? Give an example problem.
+8. Explain merge sort vs quick sort — when to use which?
+
+HARD:
+1. Design a LRU Cache with O(1) get and put operations.
+2. How would you find the median of a data stream efficiently?
+3. Explain Dijkstra's algorithm for shortest path.
+4. What is a segment tree? When is it used?
+5. Solve the N-Queens problem using backtracking.
+6. Design a system to handle 1 million concurrent API requests.
+
+## OBJECT-ORIENTED PROGRAMMING
+
+1. What are the 4 pillars of OOP? Explain each with example.
+2. What is the difference between abstraction and encapsulation?
+3. Explain method overloading vs method overriding.
+4. What is a design pattern? Explain Singleton and Factory.
+5. What is SOLID principle? Explain each letter.
+6. What is the difference between interface and abstract class?
+7. Explain the concept of polymorphism with a code example.
+8. What is dependency injection? Why is it useful?
+
+## DATABASE MANAGEMENT
+
+1. What is normalization? Explain 1NF, 2NF, 3NF.
+2. What is the difference between SQL and NoSQL?
+3. Explain ACID properties in databases.
+4. What is indexing in databases? How does it improve performance?
+5. Write a SQL query to find the second highest salary.
+6. What is a JOIN? Explain INNER, LEFT, RIGHT, FULL JOIN.
+7. What is a transaction? Explain with an example.
+8. When would you use MongoDB over MySQL?
+
+## OPERATING SYSTEMS
+
+1. What is the difference between process and thread?
+2. Explain deadlock and its four necessary conditions.
+3. What is virtual memory? How does paging work?
+4. Explain CPU scheduling algorithms: FCFS, SJF, Round Robin.
+5. What is a semaphore? How is it different from mutex?
+6. What is context switching? What overhead does it cause?
+
+## COMPUTER NETWORKS
+
+1. Explain the OSI model and its 7 layers.
+2. What is the difference between TCP and UDP?
+3. How does HTTP/HTTPS work? What is SSL/TLS?
+4. What is a REST API? What are REST principles?
+5. Explain DNS resolution step by step.
+6. What happens when you type google.com in a browser?
+7. What is a load balancer? How does it work?
+
+## SYSTEM DESIGN
+
+1. Design a URL shortener like bit.ly.
+2. Design a real-time notification system.
+3. How would you design Twitter's timeline feature?
+4. Design a ride-sharing system like Uber.
+5. How would you scale a database to handle 10 million users?
+6. What is CAP theorem? Explain with examples.
+7. Design a distributed cache system.
+8. How would you design WhatsApp's messaging system?
